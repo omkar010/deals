@@ -7,21 +7,35 @@
   "videos": [
     {
       "id": 1,
+      "brand: "Ajio",
       "title": "Instagram Firebase - Learn How to Create Users, Follow, and Send Push Notifications",
       "link": "https://www.letsbuildthatapp.com/course/instagram-firebase",
-      "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/04782e30-d72a-4917-9d7a-c862226e0a93"
+      "imageUrl": "https://asset22.ckassets.com/resources/image/staticpage_images/category-cards-AJIO-1618812920.jpg"
+      "price": "250"
     },
     {
       "id": 2,
+      "brand: "Ajio",
       "title": "Intermediate Training Core Data",
       "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
-      "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/0736fecb-5b88-483b-a83d-ca2a5a6d93f9"
+      "imageUrl": "https://asset22.ckassets.com/resources/image/staticpage_images/Cat-Women-Fashion-Dresses-Ajio-FabAlley-01.jpg"
+      "price": "250"
     },
     {
       "id": 3,
+      "brand: "Ajio",
       "title": "Kindle Basic Training",
       "link": "https://www.letsbuildthatapp.com/basic-training",
       "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/114bec2f-fbfd-4b13-91de-907fe57c6e37"
+      "price": "250"
+    },
+     {
+      "id": 4,
+      "brand: "Ajio",
+      "title": "Intermediate Training Core Data",
+      "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
+      "imageUrl": "https://asset22.ckassets.com/resources/image/staticpage_images/Cat-Women-Fashion-Dresses-Ajio-FabAlley-01.jpg"
+      "price": "250"
     }
   ]
 }
